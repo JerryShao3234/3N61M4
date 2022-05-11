@@ -4,7 +4,7 @@
 This is a virtual Engima machine which replicates the original 3-rotor military-grade Engima device
 used by the Kriegsmarine during the Second World War. The Enigma was a carefully designed and extremely advanced encryption device (for the day) that not only mapped characters through multiple layers,
 but also guaranteed that identical, consecutive characters would not show up as the same letter by use of a rotating
-rotor wheel. This results in about 150 trillion different possible mappings, making decrypting these messages by hand
+rotor wheel, frustrating the efforts to apply linguistic measures. This results in about 150 trillion different possible mappings, making decrypting these messages by hand
 virtually impossible. Enigma was eventually decrypted through social engineering tactics, linguistic pattern recognition,
 and through the use of computers, though Engima itself also evolved over time to frustrate decrypting efforts.
 
