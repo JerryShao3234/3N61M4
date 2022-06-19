@@ -20,5 +20,5 @@ Note, the reset button only restores the configuration of the rotors, not the pl
 and reopened.
 
 ### Design Specifications  
-The 3 rotors and the reflector are exact replicas of the original Rotor I, Rotor II, Rotor III, reflector used by the Kriegsmarine in the Second World War.
+The 3 rotors and the reflector are exact replicas of the original Rotor I, Rotor II, Rotor III, and reflector used by the Kriegsmarine early in the Second World War.
 Although later designs changed the rotor layout and introduced more rotors, this project is only meant to demonstrate the original.
